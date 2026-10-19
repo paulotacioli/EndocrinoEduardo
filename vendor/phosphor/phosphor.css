@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Phosphor";
+  src: url("./Phosphor.woff2") format("woff2");
+  font-weight: normal; font-style: normal; font-display: block;
+}
+.ph { font-family: "Phosphor" !important; speak: never; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ph.ph-list:before { content: "\e2f0"; }
+.ph.ph-x:before { content: "\e4f6"; }
+.ph.ph-whatsapp-logo:before { content: "\e5d0"; }
+.ph.ph-map-pin:before { content: "\e316"; }
+.ph.ph-envelope-simple:before { content: "\e218"; }
+.ph.ph-instagram-logo:before { content: "\e2d0"; }
+.ph.ph-drop:before { content: "\e210"; }
+.ph.ph-pulse:before { content: "\e000"; }
+.ph.ph-butterfly:before { content: "\ea6e"; }
+.ph.ph-scales:before { content: "\e750"; }
+.ph.ph-flower:before { content: "\e75e"; }
+.ph.ph-gender-female:before { content: "\e6e0"; }
+.ph.ph-sparkle:before { content: "\e6a2"; }
+.ph.ph-bone:before { content: "\e7f2"; }
+.ph.ph-heartbeat:before { content: "\e2ac"; }
+.ph.ph-brain:before { content: "\e74e"; }
+.ph.ph-users:before { content: "\e4d6"; }
+.ph.ph-house-line:before { content: "\e2c4"; }
+.ph.ph-video-camera:before { content: "\e4da"; }
+.ph.ph-flask:before { content: "\e79e"; }
+.ph.ph-arrow-right:before { content: "\e06c"; }
+.ph.ph-arrow-up-right:before { content: "\e092"; }
+.ph.ph-calendar-check:before { content: "\e712"; }
+.ph.ph-phone:before { content: "\e3b8"; }
+.ph.ph-stethoscope:before { content: "\e7ea"; }
+.ph.ph-clipboard-text:before { content: "\e198"; }
+.ph.ph-chats-circle:before { content: "\e17e"; }
+.ph.ph-first-aid-kit:before { content: "\e570"; }
+.ph.ph-play-circle:before { content: "\e3d2"; }
+.ph.ph-check:before { content: "\e182"; }
