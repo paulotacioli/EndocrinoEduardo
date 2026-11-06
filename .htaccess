@@ -1,0 +1,3 @@
+# Bloqueia o que nao faz parte do site quando o repositorio e clonado em public_html
+RedirectMatch 404 ^/\.git
+RedirectMatch 404 ^/(build_pages\.py|README\.md)$
