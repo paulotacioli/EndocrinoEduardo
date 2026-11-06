@@ -139,7 +139,7 @@ FOOT = f"""  </main>
     <div class="container footer__inner">
       <span>© <span id="ano">2026</span> Eduardo Rocha</span>
       <span>Endocrinologista e Metabologista</span>
-      <span>CRM-RS 60761 | RQE 73103</span>
+      <span>CRM-RS 60761 | RQE 49186</span>
       <a class="pronova pronova--footer" href="{PRONOVA}" target="_blank" rel="noopener" aria-label="Assinante da plataforma Pronova Tech">
         <span class="pronova__label">Assinante da plataforma</span>{PRONOVA_LOGO}
       </a>
@@ -196,11 +196,11 @@ INDEX = f"""    <section class="hero" style="--bg: url('assets/img/hero-bg.jpg')
             <a class="btn btn--solid" href="{WA}" target="_blank" rel="noopener">Agendar consulta</a>
             <a class="btn btn--outline-light" href="profissional.html">Conheça o Dr. Eduardo</a>
           </div>
-          <p class="hero__crm">CRM-RS 60761 | RQE 73103</p>
+          <p class="hero__crm">CRM-RS 60761 | RQE 49186</p>
         </div>
         <figure class="hero__figure">
           <div class="hero__frame">
-            <img src="assets/eduardo-hero.jpg" width="410" height="640" alt="Dr. Eduardo Rocha, médico endocrinologista, sorrindo em seu consultório" fetchpriority="high">
+            <img src="assets/eduardo-hero.jpg" width="1024" height="1600" alt="Dr. Eduardo Rocha, médico endocrinologista, de jaleco e braços cruzados, sorrindo" fetchpriority="high">
           </div>
         </figure>
       </div>
@@ -220,7 +220,7 @@ INDEX = f"""    <section class="hero" style="--bg: url('assets/img/hero-bg.jpg')
     <section class="section welcome">
       <div class="container welcome__inner">
         <figure class="welcome__figure reveal">
-          <img src="assets/img/welcome.jpg" width="900" height="1100" alt="Ambiente de consultório, imagem provisória" loading="lazy">
+          <img src="assets/img/welcome.jpg" width="1056" height="1320" alt="Recepção do consultório do Dr. Eduardo Rocha, em Gravataí" loading="lazy">
         </figure>
         <div class="welcome__text reveal">
           <h2 class="h-light">Olá, seja bem-vindo(a)!</h2>
@@ -328,11 +328,11 @@ PROFISSIONAL = page_head("O profissional", "Conheça o Dr. Eduardo Rocha.", "hea
     <section class="section">
       <div class="container welcome__inner">
         <figure class="welcome__figure reveal">
-          <img src="assets/eduardo-hero.jpg" width="410" height="640" alt="Dr. Eduardo Rocha, médico endocrinologista e metabologista" loading="lazy">
+          <img src="assets/eduardo-profissional.jpg" width="1066" height="1332" alt="Dr. Eduardo Rocha, médico endocrinologista e metabologista, sentado à mesa do consultório" loading="lazy">
         </figure>
         <div class="welcome__text reveal">
           <h2 class="h-light">Dr. Eduardo Augusto Andrade da Rocha</h2>
-          <p class="sub">Médico Endocrinologista e Metabologista<br>CRM-RS 60761 | RQE 73103</p>
+          <p class="sub">Médico Endocrinologista e Metabologista<br>CRM-RS 60761 | RQE 49186</p>
           <p>Olá! Sou o Dr. Eduardo Augusto Andrade da Rocha, médico graduado pela Universidade Federal de Sergipe (UFS).</p>
           <p>Ao longo da minha formação, realizei Residência Médica em Clínica Médica pelo Hospital do Servidor Público Estadual (IAMSPE), em São Paulo, e, na sequência, um ano opcional de Clínica Médica pela Universidade Federal de São Paulo (UNIFESP). Dei continuidade à minha formação com a Residência em Endocrinologia e Metabologia, também pela UNIFESP, e obtive o Título de Especialista em Endocrinologia e Metabologia pela Sociedade Brasileira de Endocrinologia e Metabologia (SBEM).</p>
           <p>É um prazer poder cuidar da sua saúde com dedicação e atenção em cada etapa do seu tratamento.</p>
@@ -340,7 +340,7 @@ PROFISSIONAL = page_head("O profissional", "Conheça o Dr. Eduardo Rocha.", "hea
             <li><strong>Graduação</strong><span>Universidade Federal de Sergipe (UFS)</span></li>
             <li><strong>Residências</strong><span>Clínica Médica (IAMSPE e UNIFESP) e Endocrinologia e Metabologia (UNIFESP)</span></li>
             <li><strong>Título</strong><span>Especialista pela SBEM</span></li>
-            <li><strong>Registro</strong><span>CRM-RS 60761 | RQE 73103</span></li>
+            <li><strong>Registro</strong><span>CRM-RS 60761 | RQE 49186</span></li>
             <li><strong>Público</strong><span>Adultos</span></li>
             <li><strong>Atendimento</strong><span>Presencial em Gravataí/RS e telemedicina</span></li>
           </ul>
@@ -486,7 +486,7 @@ PAGES = {
                    "Dr. Eduardo Rocha, médico endocrinologista e metabologista em Gravataí/RS. Diabetes, tireoide, obesidade e saúde hormonal. Atendimento presencial e por telemedicina.",
                    INDEX),
     "profissional.html": ("O profissional | Dr. Eduardo Rocha",
-                          "Conheça o Dr. Eduardo Rocha, médico endocrinologista e metabologista em Gravataí/RS. CRM-RS 60761 | RQE 73103.",
+                          "Conheça o Dr. Eduardo Rocha, médico endocrinologista e metabologista em Gravataí/RS. CRM-RS 60761 | RQE 49186.",
                           PROFISSIONAL),
     "atuacao.html": ("Atuação | Dr. Eduardo Rocha",
                      "Áreas de atuação do Dr. Eduardo Rocha: diabetes, bombas de insulina, tireoide, obesidade, menopausa, osteoporose, colesterol, hipófise e adrenal.",
